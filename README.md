@@ -1,8 +1,7 @@
 # SteadyStateAnalysis
 
-This page is the digital appendix for the following submitted manuscript:
-Kitayama S, Yang C. (Under Review). "Steady-state seismic response analysis of self-centering structural systems with viscous damping." Submitted to Soil Dynamics and Earthquake Engineering.
-
+This page is the digital appendix for the following journal article:
+Shoma Kitayama, Cancan Yang. (2021). "Steady-state dynamic response analysis of self-centering structural systems with viscous damping." Soil Dynamics and Earthquake Engineering, Volume 150, November 2021, 106926. https://doi.org/10.1016/j.soildyn.2021.106926
 
 This digital appendix provides the following materials:
 i) Detailed derivation of steady-state response analysis formula that were omitted in the paper for clarity and page limitation;
